@@ -1,5 +1,5 @@
 # Java-Important-Notes
-All Concept declare with example , simple and east to learn all student , Basic All Concept
+All Concept declare with example , simple and easy to learn all student , Basic All Concept
 
 𝐈❜𝐦 𝐚𝐧 𝐞𝐱𝐩𝐞𝐫𝐭 𝐢𝐎𝐒 𝐝𝐞𝐯𝐞𝐥𝐨𝐩𝐞𝐫. 𝐈❜𝐯𝐞 𝐰𝐨𝐫𝐤𝐞𝐝 𝐰𝐢𝐭𝐡 𝐦𝐚𝐧𝐲 𝐩𝐫𝐨𝐣𝐞𝐜𝐭𝐬 𝐚𝐧𝐝 𝐞𝐱𝐞𝐜𝐮𝐭𝐞𝐝 𝐭𝐡𝐞 𝐬𝐚𝐦𝐞 𝐬𝐮𝐜𝐜𝐞𝐬𝐬𝐟𝐮𝐥𝐥𝐲. 𝐈 𝐜𝐚𝐧 𝐝𝐨 𝐦𝐲 𝐛𝐞𝐬𝐭. 𝐀𝐥𝐬𝐨, 𝐈 𝐚𝐦 𝐜𝐨𝐦𝐩𝐥𝐞𝐭𝐞𝐥𝐲 𝐨𝐩𝐞𝐧 𝐭𝐨 𝐥𝐞𝐚𝐫𝐧 𝐧𝐞𝐰 𝐭𝐞𝐜𝐡𝐧𝐨𝐥𝐨𝐠𝐢𝐞𝐬 𝐰𝐡𝐞𝐧𝐞𝐯𝐞𝐫 𝐚𝐧𝐝 𝐰𝐡𝐞𝐫𝐞𝐯𝐞𝐫 𝐧𝐞𝐞𝐝𝐞𝐝 𝐭𝐨 𝐝𝐞𝐯𝐞𝐥𝐨𝐩 𝐠𝐫𝐞𝐚𝐭 𝐚𝐩𝐩𝐥𝐢𝐜𝐚𝐭𝐢𝐨𝐧𝐬.
 
